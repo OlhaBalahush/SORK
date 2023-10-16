@@ -10,7 +10,8 @@
 - ### [Authors](#authors)
 
 ## General Information
-    This project involves the creation of a feature-rich social networking platform, inspired by popular social networks like Facebook. The platform will encompass a wide range of functionalities, including user registration and login, the ability to create posts, engage in commenting, send private messages, manage followers, and interact within groups. Key technologies utilized in this project include SQLite for data storage, Golang for backend development, JavaScript for frontend interactivity, HTML for structuring web pages, and CSS for styling. A single-page application approach will be adopted for a seamless user experience, with real-time features powered by WebSockets.
+
+This project involves the creation of a feature-rich social networking platform, inspired by popular social networks like Facebook. The platform will encompass a wide range of functionalities, including user registration and login, the ability to create posts, engage in commenting, send private messages, manage followers, and interact within groups. Key technologies utilized in this project include SQLite for data storage, Golang for backend development, JavaScript for frontend interactivity, HTML for structuring web pages, and CSS for styling. A single-page application approach will be adopted for a seamless user experience, with real-time features powered by WebSockets.
 
 The project contains the following features:
 
@@ -60,8 +61,6 @@ wait a minute or two if npm install fails then try `yarn install`
 npm start
 ```
 5. Test it from the [http://localhost:3000/](http://localhost:3000/)
-
-Audit questions can be found [here](https://github.com/01-edu/public/tree/master/subjects/social-network/audit)
 
 Users for testing:
 - jane.smith@email.com
