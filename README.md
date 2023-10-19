@@ -82,6 +82,6 @@ make docker-remove
 - [Elena Khaletska](https://github.com/khaletska)
 - [Olha Balahush](https://github.com/OlhaBalahush)
 - [Karme Bärg](https://01.kood.tech/git/Karme)
-- [Taivo Tokman](https://github.com/taivox)
-- [Gert Nõgene](https://01.kood.tech/git/Gert)
+- [Taivo Tokman](https://github.com/O31)
+- [Gert Nõgene](https://github.com/GitGert)
 - [Even Luiv](https://01.kood.tech/git/evenluiv)
