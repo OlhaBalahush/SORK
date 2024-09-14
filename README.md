@@ -1,5 +1,4 @@
-# ![logo](https://cdn.discordapp.com/attachments/1075493710692876330/1160639407947255908/logo_3.png?ex=653564ae&is=6522efae&hm=311db172fb3b5ac50d3581c1542bd5a53fd39465ecd3c4fedd567bc7f8061738&)
-
+# SORK
 <!-- # Social-network -->
 
 ## Table of Contents
